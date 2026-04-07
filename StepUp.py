@@ -24,7 +24,7 @@ def main():
     turn_right()
     move()
     put_75()
-def turn_right():
+def turn_right(): #definition and the main code should be seperated in any sequence
     turn_left()
     turn_left()
     turn_left()
