@@ -1,14 +1,14 @@
 # Melody-Lu-Python-coding-project
 
-1.[StepUp]()
+1.[StepUp](https://github.com/Lu-Melody/Melody-Lu-Python-coding-project-/blob/main/StepUp.py)
    - Basic demands
    - Python definition creating
 
-2.BeeperRowAdv
+2.[BeeperRowAdv]()
    - While application
    - Conditions: If/Else
 
-3.PotholeFilling
+3.[PotholeFilling]()
    - Loop (for i in range)
    - Advanced definition practice
 
