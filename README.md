@@ -6,6 +6,10 @@
 
 - [InfiniteLoop]()
    - Infinite loop (while)
+ 
+
+-[MoveToTheEnd]()
+   -Loop with detecting beeper conditions(while)
 
 - [PotholeFilling](https://github.com/Lu-Melody/Melody-Lu-Python-coding-project-/blob/main/PotholeFilling.py)
    - Loop (for i in range)
