@@ -4,6 +4,8 @@
    - Basic demands
    - Python definition creating
 2. BeeperRowAdv
+   -While application
+   -Conditions:
 
 
 
