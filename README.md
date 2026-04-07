@@ -1,6 +1,6 @@
 # Melody-Lu-Python-coding-project
 
-1.StepUp
+1.[StepUp]()
    - Basic demands
    - Python definition creating
 
@@ -9,4 +9,12 @@
    - Conditions: If/Else
 
 3.PotholeFilling
+   - Loop (for i in range)
+   - Advanced definition practice
+
+
+
+
+
+
 
