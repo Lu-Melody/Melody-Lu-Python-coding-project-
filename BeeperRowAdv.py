@@ -1,6 +1,6 @@
 """
 File: BeeperRowAdv.py
-Name:
+Name:Melody Lu
 ------------------------------
 This program guides Karel to place beepers
 along Street 1, even if some beepers are
