@@ -4,9 +4,8 @@
    - Basic demands
    - Python definition creating
 
-- [BeeperRowAdv](https://github.com/Lu-Melody/Melody-Lu-Python-coding-project-/blob/main/BeeperRowAdv.py)
-   - While application
-   - Conditions: If/Else
+- [InfiniteLoop]()
+   - Infinite loop (while)
 
 - [PotholeFilling](https://github.com/Lu-Melody/Melody-Lu-Python-coding-project-/blob/main/PotholeFilling.py)
    - Loop (for i in range)
@@ -18,5 +17,7 @@
 
 
 
-
+- [BeeperRowAdv](https://github.com/Lu-Melody/Melody-Lu-Python-coding-project-/blob/main/BeeperRowAdv.py)
+   - While application
+   - Conditions: If/Else
 
