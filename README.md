@@ -1,5 +1,5 @@
 # Melody-Lu-Python-coding-project  💻
-
+ Hello there! These programming projects concentrate my python self-learning journey with the help of Stanford's open course./Check it out!
 - *[StepUp](https://github.com/Lu-Melody/Melody-Lu-Python-coding-project-/blob/main/StepUp.py)*
    - Basic demands
    - Python definition creating
