@@ -13,8 +13,8 @@
    - Advanced definition practice
    
 - [Steeplechase]()
-   -Negation
-   -While advanced practice
+   - Negation
+   - While advanced practice
 
 
 
