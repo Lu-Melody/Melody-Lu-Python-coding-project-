@@ -1,4 +1,4 @@
-# Melody-Lu-Python-coding-project
+# Melody-Lu-Python-coding-project  💻
 
 - *[StepUp](https://github.com/Lu-Melody/Melody-Lu-Python-coding-project-/blob/main/StepUp.py)*
    - Basic demands
