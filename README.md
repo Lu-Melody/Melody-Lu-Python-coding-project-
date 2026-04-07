@@ -4,7 +4,7 @@
    - Basic demands
    - Python definition creating
 
-- [InfiniteLoop]()
+- [InfiniteLoop](https://github.com/Lu-Melody/Melody-Lu-Python-coding-project-/blob/main/InfiniteLoop.py)
    - Infinite loop (while)
  
 
