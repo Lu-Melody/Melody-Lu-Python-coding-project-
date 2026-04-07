@@ -1,6 +1,6 @@
 """
 File: MoveToTheEnd.py
-Name:
+Name: Melody Lu
 ------------------------
 This program demonstrates how to use a
 while loop to move Karel to the end of
