@@ -14,7 +14,7 @@ from karel.stanfordkarel import *
 
 
 def main():
-    pass#pass means nothing its here to indicate we should write from here with a tab
+    pass #pass means nothing it is here to indicate we should write from here with a tab
     move()
     pick_beeper()
     move()
